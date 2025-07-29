@@ -1,0 +1,19 @@
+#Dependency Directories
+node_modules
+
+#Enviroment
+.env
+.env.*
+
+# Optional REPL history
+.node_repl_history
+
+#Build Ouput
+/lib
+
+#IDE and Editors
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
